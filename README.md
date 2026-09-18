@@ -17,7 +17,7 @@
 
 <p align="center">
   <b>Made with ❤️ by <a href="https://github.com/AnkitKing7">AnkitCoder</a></b><br>
-  <b>Repository:</b> <a href="https://github.com/AnkitKing7/Svm-v9bot">AnkitKing7/Svm-v9bot</a>
+  <b>Repository:</b> <a href="https://github.com/AnkitKing7/Svm-v9.2-bot">AnkitKing7/Svm-v9.2-bot</a>
 </p>
 
 ---
